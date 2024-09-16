@@ -28,7 +28,7 @@ After testing various models, the optimized Matrix Factorization approach emerge
 * Improved Personalization: By leveraging collaborative filtering, I provided highly personalized recommendations.
 * Optimization of Business Outcomes: Insights from the model can drive personalized marketing, optimize inventory management, and increase customer satisfaction.
 
-## 🔧 Tech Stack:
+## 💻 Tech Stack:
 
 * Python
 * Surprise Library for collaborative filtering
